@@ -5,7 +5,7 @@ Contact me: [Email](mailto:yaelbarron95@gmail.com"yaelbarron95@gmail.com") | [Li
 
 View [My Portfolio](https://yaellachmantechcomm.wixsite.com/portfolio"https://yaellachmantechcomm.wixsite.com/portfolio")
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQFAy_4YWiI2dg/profile-displayphoto-shrink_400_400/0/1659553343223?e=1673481600&v=beta&t=gG2ojiv6feN6nB4HzElHqG8rPYYlGvEa06E3VAmaICk" alt="Headshot" width="250">
+<img src="https://media.licdn.com/dms/image/C4E03AQFAy_4YWiI2dg/profile-displayphoto-shrink_400_400/0/1659553343223?e=1688601600&v=beta&t=ID8rHVtaZNxPOIMuMAm02ReZPw6lnHmQOspy_cz6Ve0" alt="Headshot" width="250">
 
 # Summary
 Passionate technical writer with over 4 years of business procedure workflow development. Quick learner, strong attention to detail, and mother-tongue English. Seeking a team where I can contribute my skills to creating documentation that sells products.
