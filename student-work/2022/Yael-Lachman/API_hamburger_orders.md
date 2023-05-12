@@ -14,8 +14,10 @@
   G-->H{Choose toppings}
   H-->I{Choose sauces}
   I-->J{Choose side dish}
-  J-->K{Choose drink}
-  K-->L((End))
+  J-->K{Choose size}
+  K-->L{Choose drink}
+  L-->M{Choose size}
+  M-->N((End))
 ```
 
 
